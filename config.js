@@ -6,16 +6,16 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['601151155838', 'Xyroi', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
+global.nomorwa = '601151155838'
+global.packname = 'amir - MD by'
+global.author = '© Xinee'
+global.namebot = '​jenna - MD'
+global.wm = '© anu By Xyroi'
 global.stickpack = 'anu - MD by'
 global.stickauth = '© Xyroine'
 global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
